@@ -1,4 +1,4 @@
-clc; clear; 
+clc; clear; close all;
 %%
 xMesh = linspace(0, 10, 50);
 Pr = 100;
